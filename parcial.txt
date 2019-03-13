@@ -1,0 +1,9 @@
+Json:
+
+Vehiculo {Automovil {"marca"="toyota"},Camion{"marca"="dodge"},Moto{"marca"="kawasaki"}
+
+Xml:
+
+<Vehiculo>
+           <Automovil>
+                   <marca>
