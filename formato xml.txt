@@ -1,0 +1,12 @@
+json:
+
+[Automovil{numLlantas=5placa=1452mhh, marca=toyota, valorpeaje=12.0, Moto{numLlantas=5placa=14hh, marca=honda, valorpeaje=2.0, Camion{numLlantas=5placa=14022hh, marca=honda, valorpeaje=22.0]
+
+xml:
+
+ <Vehiculo>
+           <Moto>
+                 <placa>145</placa><marca>honda</marca><valorpeaje>2000</valorpeaje><numdellantas>5</numdellantas>
+           </Moto>      
+
+</Vehiculo>  
